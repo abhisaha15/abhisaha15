@@ -4,6 +4,7 @@ I am Abhishek Saha a final-year engineering student graduating in 2024, I am dri
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhisaha15&label=Profile%20views&color=0e75b6&style=flat" alt="abhisaha15" /> </p>
 
+
 <!--
 **abhisaha15/abhisaha15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,7 +36,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">  ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ## 📊 GitHub Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisaha15&show_icons=true&locale=en&layout=compact" alt="abhisaha15" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhisaha15&show_icons=true&locale=en" alt="abhisaha15" /></p>
+
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhisaha15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> 
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhisaha15&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
